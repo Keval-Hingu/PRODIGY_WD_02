@@ -10,7 +10,7 @@ html
 
 body
 {
-    background:url(/assets/watch-vintage.avif);
+    background:url(assets/watch-vintage.avif);
     background-position: center;
     background-repeat: no-repeat;  
     background-size:cover;
